@@ -1,6 +1,5 @@
 # Assalomu alaykum! 👋  
 Men Sherzod, Python va bot yaratish bilan shug‘ullanaman.  
-![GitHub Animation](https://your-image-link.gif)
 
 ## 🔭 Hozirda men ...  
 - Python'da botlar yaratmoqdaman 🤖  
