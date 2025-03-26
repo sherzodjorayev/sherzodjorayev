@@ -1,16 +1,21 @@
-## Hi there 👋
+ # Assalomu alaykum! 👋  
+Men Sherzod, Python va bot yaratish bilan shug‘ullanaman.  
+![GitHub Animation](https://your-image-link.gif)
 
-<!--
-**sherzodjorayev/sherzodjorayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Hozirda men ...  
+- Python'da botlar yaratmoqdaman 🤖  
 
-Here are some ideas to get you started:
+ 
+## (🌱 O‘rganayotgan yo‘nalishlarim )  va 🚀 Mening yo‘nalishlarim  
+- **AIogram** va **Telegram botlar** 📩  
+- **MySQL va SQLite** bilan ma’lumotlar bazasi 🗄️  
+- **Ethical hacking** va xavfsizlik 🛡️  
+- **macOS** va terminal buyruqlari 💻 
+- Backend uchun FastAPI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Menga bog‘lanish  
+- [Telegram](https://t.me/sherzod2388)  
+- [GitHub](https://github.com/sherzodjorayev)  
+
+## ⚡ Qiziqarli fakt  
+Men **futbol** va **texnologiyaga** juda qiziqaman! ⚽💻
